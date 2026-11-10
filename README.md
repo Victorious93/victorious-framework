@@ -79,7 +79,7 @@ Grouped by how each app connects to the hub. Package IDs are shown where the pro
 - **Package id:** `ai.victorious.filemanager` (debug: `ai.victorious.filemanager.debug`) *(rename in progress — repo still uses `ai.victorious.victorfiles`)*
 - **Purpose:** Dual-pane power-user file manager aiming to beat MT Manager VIP.
 
-#### <img src="assets/logos/victorious-keyboard-logo.png" alt="Victorious-Keyboard" width="64" valign="middle"> Victorious-Keyboard
+### <img src="assets/logos/victorious-keyboard-logo.png" alt="Victorious-Keyboard" width="64" valign="middle"> Victorious-Keyboard
 
 - **Repo:** [Victorious93/Victorious-Keyboard](https://github.com/Victorious93/Victorious-Keyboard)
 - **Package id:** `com.victorious.keyboard` *(code namespace still `dev.patrickgold.florisboard` — rename queued)*
@@ -133,6 +133,24 @@ Grouped by how each app connects to the hub. Package IDs are shown where the pro
 - **Package id:** `com.victorious.cam`
 - **Purpose:** OBS-style virtual camera APK.
 
+### VictorMango
+
+- **Repo:** [Victorious93/victormango](https://github.com/Victorious93/victormango)
+- **Package id:** `com.victorious.mango`
+- **Purpose:** Android companion for the GL.iNet Mango (GL-MT300N-V2) and other GL.iNet OpenWrt travel routers.
+
+### VictorTaskbar
+
+- **Repo:** [Victorious93/victortaskbar](https://github.com/Victorious93/victortaskbar)
+- **Package id:** `com.victorious.taskbar`
+- **Purpose:** Desktop-style taskbar overlay for Android with start menu, pinned/recent apps, clock and battery.
+
+### VictorGPS
+
+- **Repo:** [Victorious93/victorgps](https://github.com/Victorious93/victorgps)
+- **Package id:** `com.victorious.gps`
+- **Purpose:** GPS location spoofer for lawful personal use and app testing only.
+
 **Host & Shell Tools**
 
 ### <img src="assets/logos/victorsuite-logo.png" alt="VictorSuite" width="64" valign="middle"> VictorSuite
@@ -158,6 +176,12 @@ Grouped by how each app connects to the hub. Package IDs are shown where the pro
 - **Repo:** [Victorious93/DreamOS-Victorious](https://github.com/Victorious93/DreamOS-Victorious)
 - **Purpose:** Phase 1 Android ROM source integration foundation: host-side profile validator, reproducible source bundle and SHA-256 integrity verifier (not flashable).
 
+### VictorDrax
+
+- **Repo:** [Victorious93/victordrax](https://github.com/Victorious93/victordrax)
+- **Package id:** `com.victorious.victordrax`
+- **Purpose:** Victorious ANDRAX fork — launcher/installer for the ANDRAX-NG penetration-testing environment (authorized testing only).
+
 **Social / Marketplace Apps**
 
 ### <img src="assets/logos/matchvictorious-logo.jpg" alt="MatchVictorious" width="64" valign="middle"> MatchVictorious
@@ -171,6 +195,12 @@ Grouped by how each app connects to the hub. Package IDs are shown where the pro
 - **Repo:** VictoryPed *(private)*
 - **Package id:** `com.victorious.victoryped`
 - **Purpose:** Social network and marketplace for bully breeders.
+
+### VictorTrade
+
+- **Repo:** victortrade *(private)*
+- **Package id:** *(no confirmed package id yet)*
+- **Purpose:** Fleet app listed in fleet-manifest apps.yml; private, initial commit only.
 
 **Games**
 
