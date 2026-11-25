@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/victorious-framework-logo.png" alt="Victorious Framework" width="900" />
+<img src="assets/logo.png" alt="Victorious Framework logo" width="900" />
 
 <p align="center">
-  <a href="https://preview.victorious-framework.pages.dev/"><img src="https://img.shields.io/badge/Victorious_Framework-Website-FFB000?style=for-the-badge&labelColor=0A0F1F&color=FFB000" alt="Victorious Framework website" /></a>
-  <a href="https://victorious-designs.pages.dev"><img src="https://img.shields.io/badge/Victorious_Designs-Website-FF2E97?style=for-the-badge&labelColor=0A0F1F&color=FF2E97" alt="Victorious Designs website" /></a>
+  <a href="https://preview.victorious-framework.pages.dev/"><img src="https://img.shields.io/badge/Victorious_Framework-Website-00E5FF?style=for-the-badge&labelColor=0B0F1A&color=00E5FF" alt="Victorious Framework website" /></a>
+  <a href="https://victorious-designs.pages.dev"><img src="https://img.shields.io/badge/Victorious_Designs-Website-FF2BD6?style=for-the-badge&labelColor=0B0F1A&color=FF2BD6" alt="Victorious Designs website" /></a>
 </p>
 
 </div>
@@ -35,13 +35,13 @@ Grouped by how each app connects to the hub. Package IDs are shown where the pro
 
 ### <img src="assets/logos/pyraclaw-logo.jpg" alt="Pyra Claw" width="64" valign="middle"> Pyra Claw
 
-- **Repo:** pyra-claw *(private)*
+- **Repo:** [Victorious93/pyra-claw](https://github.com/Victorious93/pyra-claw)
 - **Package id:** *(hub / hardware — not an Android package)*
 - **Purpose:** Raspberry Pi 5 + ESP32 command hub that bridges the phone controller to physical devices.
 
 ### <img src="assets/logos/victormodem-logo.jpg" alt="VictorModem" width="64" valign="middle"> VictorModem *(in planning)*
 
-- **Repo:** victormodem *(private)*
+- **Repo:** [Victorious93/victormodem](https://github.com/Victorious93/victormodem)
 - **Package id:** *(in planning / hardware — no confirmed package id yet)*
 - **Purpose:** ESP32-S3 + cellular modem board that gives the fleet an independent second line.
 
@@ -105,19 +105,19 @@ Grouped by how each app connects to the hub. Package IDs are shown where the pro
 
 ### <img src="assets/logos/victorsms-logo.jpg" alt="VictorSMS" width="64" valign="middle"> VictorSMS
 
-- **Repo:** victorsms *(private)*
+- **Repo:** [Victorious93/victorsms](https://github.com/Victorious93/victorsms)
 - **Package id:** `com.victorious.sms`
 - **Purpose:** Universal messaging app (Matrix-based) with voice cloning and persona learning.
 
 ### <img src="assets/logos/victorlaunch-logo.jpg" alt="VictorLaunch" width="64" valign="middle"> VictorLaunch
 
-- **Repo:** victorlaunch *(private)*
+- **Repo:** [Victorious93/victorlaunch](https://github.com/Victorious93/victorlaunch)
 - **Package id:** `com.victorious.launch`
 - **Purpose:** Nova-class, Lawnchair-based fleet home-screen launcher.
 
 ### <img src="assets/logos/victorspoof-logo.jpg" alt="VictorSpoof" width="64" valign="middle"> VictorSpoof
 
-- **Repo:** victorspoof *(private)*
+- **Repo:** [Victorious93/victorspoof](https://github.com/Victorious93/victorspoof)
 - **Package id:** `com.victorious.spoof`
 - **Purpose:** Legal novelty / prank caller-ID app with strict compliance guardrails.
 
@@ -176,6 +176,11 @@ Grouped by how each app connects to the hub. Package IDs are shown where the pro
 - **Repo:** [Victorious93/DreamOS-Victorious](https://github.com/Victorious93/DreamOS-Victorious)
 - **Purpose:** Phase 1 Android ROM source integration foundation: host-side profile validator, reproducible source bundle and SHA-256 integrity verifier (not flashable).
 
+### VictoriousOS
+
+- **Repo:** VictoriousOS *(private)*
+- **Purpose:** AI-first Android ROM project (Memory Governor, system service, Fleet Manager). **Prototype:** no ROM image has been built, emulator-booted, or flashed yet.
+
 ### VictorDrax
 
 - **Repo:** [Victorious93/victordrax](https://github.com/Victorious93/victordrax)
@@ -206,5 +211,5 @@ Grouped by how each app connects to the hub. Package IDs are shown where the pro
 
 ### <img src="assets/logos/victorops-zombies-logo.jpg" alt="VictorOps Zombies" width="64" valign="middle"> VictorOps Zombies
 
-- **Repo:** victorops-zombies *(private)*
+- **Repo:** [Victorious93/victorops-zombies](https://github.com/Victorious93/victorops-zombies)
 - **Purpose:** Original CODBOZ-style wave-survival zombies game for Android.
